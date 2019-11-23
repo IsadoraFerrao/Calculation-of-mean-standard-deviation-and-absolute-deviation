@@ -1,0 +1,11 @@
+0.904968
+
+ Performance counter stats for './programa1':
+
+            83.621      LLC-loads                                                    [51,25%]
+            60.470      LLC-load-misses           #   72,31% of all LL-cache hits    [51,24%]
+         6.470.280      LLC-stores                                                   [50,00%]
+         3.567.490      LLC-prefetches                                               [50,01%]
+
+       0,148344938 seconds time elapsed
+

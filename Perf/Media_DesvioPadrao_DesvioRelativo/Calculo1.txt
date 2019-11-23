@@ -1,0 +1,1 @@
+saida1.txt		Media = 0.578063	Desvio Padrao = 0.285832	Desvio Absoluto = 49.446484
